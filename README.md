@@ -60,7 +60,7 @@ El proyecto se estima en un total de **21 a 27 semanas** para un MVP (Producto M
 
 | Fase       | Actividad                                                                 | Duración      |
 | :--------- | :------------------------------------------------------------------------ | :------------ |
-| **Fase 1** | **Infraestructura Core:** Configuración LEMP y arquitectura Multitenancy. | 3 - 4 Semanas |
+| **Fase 1** | **Infraestructura Core:** Configuración LEMP y arquitectura Multitenancy. | ~~3 - 4 Semanas~~ |
 | **Fase 2** | **Migración y ETL:** Limpieza y carga de datos desde SQL Server.          | 4 - 5 Semanas |
 | **Fase 3** | **Desarrollo Médico:** Historias clínicas, agenda y flujo de consulta.    | 6 - 8 Semanas |
 | **Fase 4** | **Módulos Especiales:** Ventas de lentes y herramienta de dibujo.         | 3 - 4 Semanas |
